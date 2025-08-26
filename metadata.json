@@ -1,0 +1,7 @@
+{
+  "name": "폴리티코스: 국회의원 AI 보좌관",
+  "description": "국회의원과 보좌관을 위한 AI 기반 솔루션. 의정 활동, 국정감사 준비, 지역구 관리를 효율적으로 수행하도록 돕습니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
